@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "Coding Bareng Bootcamp"
-  text: "Vitepress doc"
-  tagline: My great project tagline
+  text: "Belajar full-stack web development dan UI/UX!"
+  tagline: 100% gratis coding bootcamps untuk warga Indonesia :)
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: About Us
+      link: /about
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Curriculums
+      link: /curriculums
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Gratis
+    details: 100% gratis, tanpa biaya apapun!
+  - title: Everything online
+    details: Seminggu sekali remote session untuk lecture dan lab.
+  - title: Sharing and networking
+    details: Ada sesi reguler ngobrol-ngobrol santai dengan industry insiders.
 ---
 
