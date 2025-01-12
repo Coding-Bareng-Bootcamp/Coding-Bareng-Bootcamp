@@ -25,7 +25,8 @@ export default defineConfig({
         ]
       },
       { text: 'About Us', link: '/about' },
-      { text: 'Join', link: '/join' }
+      { text: 'Join', link: '/join' },
+      { text: 'Terms & Contidions', link: '/terms-conditions' }
     ],
 
     socialLinks: [
