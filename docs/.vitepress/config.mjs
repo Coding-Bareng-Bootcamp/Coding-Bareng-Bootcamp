@@ -9,21 +9,24 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'GitHub', link: 'https://github.com/Coding-Bareng-Bootcamp' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Curriculums',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Frontend', link: '/frontend-curriculum' },
+          { text: 'Backend', link: '/backend-curriculum' },
+          { text: 'UI/UX', link: '/ui-ux' },
+          { text: 'Scripting', link: '/scripting' },
+          { text: 'Cybersecurity', link:'/cybersecurity' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Coding-Bareng-Bootcamp' }
     ]
   }
 })
