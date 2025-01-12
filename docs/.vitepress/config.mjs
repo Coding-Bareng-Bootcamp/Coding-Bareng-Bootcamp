@@ -19,9 +19,9 @@ export default defineConfig({
         items: [
           { text: 'Frontend', link: '/frontend-curriculum' },
           { text: 'Backend', link: '/backend-curriculum' },
-          { text: 'UI/UX', link: '/ui-ux' },
+          { text: 'Cybersecurity', link:'/cybersecurity' },
           { text: 'Scripting', link: '/scripting' },
-          { text: 'Cybersecurity', link:'/cybersecurity' }
+          { text: 'UI/UX', link: '/ui-ux' }
         ]
       },
       { text: 'About Us', link: '/about' },
