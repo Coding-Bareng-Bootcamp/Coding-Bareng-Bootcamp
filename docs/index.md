@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: About Us
       link: /about
+    - theme: brand
+      text: How to Join
+      link: /join
     - theme: alt
       text: Curriculums
       link: /curriculums

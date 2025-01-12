@@ -9,6 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Join Us', link: '/join-us' },
       { text: 'GitHub', link: 'https://github.com/Coding-Bareng-Bootcamp' }
     ],
 
@@ -22,7 +23,9 @@ export default defineConfig({
           { text: 'Scripting', link: '/scripting' },
           { text: 'Cybersecurity', link:'/cybersecurity' }
         ]
-      }
+      },
+      { text: 'About Us', link: '/about' },
+      { text: 'Join', link: '/join' }
     ],
 
     socialLinks: [
